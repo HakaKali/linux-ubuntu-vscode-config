@@ -11,7 +11,7 @@ To use these configuration files, follow the steps below:
 2. Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/linux-ubuntu-vscode-config.git
+git clone https://github.com/HakaKali/linux-ubuntu-vscode-config.git
 ```
 1. Copy the .vscode folder from the cloned repository to your project's root directory or the directory where your project's files are located.
 2. Open Visual Studio Code, and you should now have the custom configurations available for your projects.
