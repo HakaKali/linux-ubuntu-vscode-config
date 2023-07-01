@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "terminal.external.linuxExec": "x-terminal-emulator",
+    "files.associations": {
+        "iso646.h": "c",
+        "stdio.h": "c",
+        "time.h": "c"
+    }
+}
